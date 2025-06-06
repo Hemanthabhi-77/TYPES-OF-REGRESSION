@@ -1,33 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Regression Models Visualization</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      max-width: 800px;
-      margin: auto;
-      padding: 20px;
-      background: #f9f9f9;
-      color: #333;
-    }
-    h1, h2 {
-      color: #007ACC;
-    }
-    pre {
-      background: #eee;
-      padding: 10px;
-      overflow-x: auto;
-    }
-    code {
-      font-family: monospace;
-      color: #c7254e;
-    }
-  </style>
-</head>
 <body>
 
   <h1>📊 Regression Models Visualization</h1>
