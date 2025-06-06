@@ -33,8 +33,4 @@
   <h2>📈 Output</h2>
   <p>The script generates plots showing how each regression model fits the same dataset. This helps visualize how linear and non-linear models behave differently.</p>
 
-  <h2>🧠 Author</h2>
-  <p>Generated with ❤️ using ChatGPT</p>
 
-</body>
-</html>
